@@ -3,6 +3,10 @@
 	"displayName": "cypress-cucumber-steps",
 	"description": "Generate step definitions from featuer files for the cucumber-cypress-preprocessor",
 	"publisher": "dylanmoerland",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/dylanmoerland/cypress-cucumbur-steps"
+	},
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.42.0"
